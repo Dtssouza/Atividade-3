@@ -1,0 +1,12 @@
+body {
+    background-image: url('https://i.im.ge/2023/09/19/6V8w9J.minion.jpg');
+    background-size: cover;
+    background-position: right top;
+    background-repeat: repeat;
+    
+}
+h1 {
+    background-color: red;
+    border: 2px solid green;
+}
+
